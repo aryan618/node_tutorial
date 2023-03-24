@@ -1,0 +1,4 @@
+Here is my first text using
+writeFileSync Hello this is my first text file to read Hello this is my second text file to be read
+Here is my first text using
+writeFileSync Hello this is my first text file to read Hello this is my second text file to be read
